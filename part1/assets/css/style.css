@@ -1,0 +1,135 @@
+.body{
+	font-family: sans-serif, 'Montserrat';
+	font-weight: 400;
+	font-size: 16px;
+}
+.navbar-default{
+	background-color: transparent;
+	border-color: transparent;
+}
+
+.navbar-default .navbar-brand {
+	color: #4aaaa5;
+	font-weight: 700;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover , .navbar-default .navbar-nav > .active > a:focus {
+	color: #4aaaa5;
+	background-color: transparent;
+	border-bottom: 2px solid #4aaaa5;
+	font-weight: 700;
+}
+.navbar-default .navbar-nav > li > a {
+	color: #4aaaa5;
+	background-color: transparent;
+	font-weight: 700;
+}
+.navbar-default .navbar-nav > li > a:hover {
+	color: #d4d4d4;
+}
+
+.headerwrap{
+	background:no-repeat center top;
+	background-image: url("../images/Basantapur.jpg");
+	background-size: cover;
+	margin-top: -70px;
+	padding-top: 250px;
+	text-align: center;
+	width: 100%;
+	min-height: 650px;
+}
+
+.portfoliowrap h1{
+	color: black;
+	font-weight: bold;
+	font-size: 71px;
+	padding:10px 5px; 
+
+}
+
+.portfoliowrap h4 {
+	font-weight: 500;
+	color: black;
+}
+
+.footerwrap {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background-color: #2f2f2f;
+	color: white;
+}
+
+.centered {
+	text-align: center;
+}
+
+.social{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-color: #f2f2f2;
+}
+.social i {
+	font-size: 60px;
+	color: #4a4a4a;
+}
+
+.social i:hover {
+	color:#4aaaa5;
+}
+h1{
+	font-weight: 700;
+	color: #4a4a4a;
+}
+
+.portfoliowrap{
+	background:no-repeat center top;
+	background-image: url("../images/everest.jpg");
+	background-size: cover;
+	margin-top: -70px;
+	padding-top: 250px;
+	text-align: center;
+	width: 100%;
+	min-height: 650px;
+
+}
+.gallery{
+	margin-top: 30px;
+}
+
+.mb {
+	margin-bottom: 80px;
+}
+
+.mt{
+	margin-top: 80px;
+}
+
+.contactwrap{
+	background:no-repeat center top;
+	background-image: url("../images/syambhunath.jpg");
+	background-size: cover;
+	margin-top: -70px;
+	padding-top: 250px;
+	text-align: center;
+	width: 100%;
+	min-height: 650px;
+}
+
+h3{
+	margin-top: 290px;
+	color: white;
+}
+
+label{
+	text-align: left;
+	font-size: 20px;
+	color:grey;
+}
+.contact-wrap{
+	text-align: left;
+	margin-top: 20px;
+}
+
+.navbar-header .navbar-brand:hover{
+	color: #4aaaa5;
+}
